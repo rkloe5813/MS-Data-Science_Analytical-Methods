@@ -1,0 +1,13 @@
+company,Year of founding,App category,App ranking in category,# ratings,app size (MB),# employees,company status,is subsidiary,parent company,other relevant info,mission statement,BBB rating,BBB accredited since,BBB rating,# BBB reviews,# BBB complaints (3 years),Trustpilot rating,Trustpilot # reviews,% Excellent ratings on TP
+affirm,2012,shopping,29,659500,76.6,<5000,public,no,,,Build honest financial products that improve lives,A+,2020,1.22,201,639,4.5,4319,0.86
+afterpay,2014,shopping,3,426300,109.2,<250,public,no,,,Power an economy in which everyone wins,A-,,1.44,72,248,4.9,51717,0.94
+cashapp,2013,finance,1,2000000,197.5,<5000,public,yes,Square,,Build an ecosystem to redefine the world’s relationship with money by making it universally accessible,B-,,1.08,142,2928,1.2,2813,0.03
+chime,2013,finance,9,277000,126.7,<1000,private,no,,,Building a new kind of online bank account that helps members get ahead by making managing money easy,B-,,2.23,781,4471,3.9,6720,0.78
+dave,2016,finance,3,469800,117.5,<250,private,no,,,Creating financial opportunity that advances America’s collective potential,B-,2019,1.29,205,984,,,
+earnin,2012,finance,41,198100,215.8,<250,private,no,,,Build a financial system that works for people,A,2019,4.1,599,450,3.2,1,0
+floatme,2017,finance,70,20200,90.7,<50,private,no,,,Help people make better financial decisions,B-,,1,1,15,,,
+Klarna,2005,shopping,18,346900,180.8,<5000,private,no,,,Make payments and shopping as smoooth as possible,A+,2015,1.14,232,967,4.4,25166,0.75
+Paypal,1998,finance,3,5500000,300.9,>10000,public,no,,,"Democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient and secure products and services to take control of their financial lives",B-,2001,1.06,2094,15886,1.2,18524,0.09
+Quadpay,2017,shopping,41,199900,74.7,<100,public,yes,Zip,,"Empower modern consumers with simple, transparent, and financially responsible payment tools",F,,4.04,1178,1328,4.5,3759,0.81
+sezzle,2016,shopping,88,34200,120.3,<100,public,no,,certified B corp,Financially empower the next generation,A-,,1.34,32,134,4.8,6442,0.92
+Varo,2015,finance,,56700,270.1,<500,private,no,,,Help everyone make progress in their financial lives.,A+,2018,3.99,359,612,4.4,1828,0.83
